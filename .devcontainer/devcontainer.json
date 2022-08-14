@@ -18,7 +18,8 @@
 			"extensions": [
 				"vscjava.vscode-java-pack",
 				"RapidAPI.vscode-rapidapi-client",
-				"vscjava.vscode-spring-boot-dashboard"
+				"vscjava.vscode-spring-boot-dashboard",
+				"redhat.vscode-xml"
 			]
 		}
 	},
