@@ -19,7 +19,8 @@
 				"vscjava.vscode-java-pack",
 				"RapidAPI.vscode-rapidapi-client",
 				"vscjava.vscode-spring-boot-dashboard",
-				"redhat.vscode-xml"
+				"redhat.vscode-xml",
+				"vscjava.vscode-gradle"
 			]
 		}
 	},

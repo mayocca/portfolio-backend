@@ -3,19 +3,15 @@
 Simple backend for my portfolio.
 
 
-# Build
+# Build JAR package
 
 ```bash
-mvn package
+gradle bootJar
 ```
 
 
 # Usage
 
 ```bash
-# Run without building .jar file previously
-mvn spring-boot:run
-
-# Run using .jar file
-java -jar <filename>.jar
+gradle bootRun
 ```
