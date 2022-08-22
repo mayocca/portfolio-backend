@@ -14,7 +14,7 @@ import com.mayocca.portfolio.backend.repositories.EducationRepository;
 public class EducationController {
 
     @Autowired
-    private EducationRepository educationRepository;
+    private final EducationRepository educationRepository;
 
     public EducationController(EducationRepository educationRepository) {
         this.educationRepository = educationRepository;
